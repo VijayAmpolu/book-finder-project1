@@ -91,7 +91,7 @@ export default function Home() {
             >
               <option value="all">All Languages</option>
               <option value="eng">English</option>
-              <option value="hin">Hindi</option>
+              {/* <option value="hin">Hindi</option> */}
               <option value="spa">Spanish</option>
               <option value="fre">French</option>
               <option value="ger">German</option>
